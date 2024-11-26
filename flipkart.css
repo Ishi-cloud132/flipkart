@@ -1,0 +1,186 @@
+button{
+    POSITION:absolute;
+    top: 340px;
+    padding: 50px 20px;
+}
+.bold {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    border-width:0;box-sizing:border-box;
+    display:inline;white-space:nowrap;
+    overflow-wrap:break-word;
+    text-align:center;
+    max-width:100%;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-wrap:normal;
+    
+}
+.speakers {
+    align-items: center;
+}
+.text1{
+    
+    letter-spacing: normal;
+    word-spacing: normal;
+    padding-bottom:10%;
+    display:inline-block;
+   
+}
+
+.electronics {
+    display:flex;
+    background-color: aliceblue;
+    justify-content:space-evenly;
+    text-align: center;
+
+    
+
+
+     
+}
+.box {
+    border: solid;
+    border-color: black;
+    background-color: white;
+    padding:25px 15px;
+    margin-top: 10px;
+    
+   
+}
+
+
+.third{
+
+ display:flex;
+    background-color: aliceblue;
+    justify-content:space-evenly;
+  
+}
+.all{  
+    margin:0;
+        display:flex;
+        flex-direction: row;
+        white-space: nowrap;
+    }
+   .items{
+    font-weight: 500;
+font-size: 24px;
+   }
+   .text
+   {
+ margin:0px;
+    width:10px;
+   }
+    
+  .t1{
+      
+
+  }
+        
+    .t1:hover{
+         color: blue;
+
+      }
+      .symbols:hover{
+        color:blue;
+      }
+     
+    
+    .images{
+        display:flex;
+                flex-direction:row;
+
+                   margin-right: 100px;
+                  justify-content: space-between;
+
+    }
+    .first{
+        border: 0px;
+        margin-top: 0;
+         width: 75px;
+
+       
+    }
+    div{ 
+
+    justify-content: space-between;
+    margin-right:30px;
+   
+    }
+    .all{  
+        margin:0;
+            display:flex;
+            flex-direction: row;
+            white-space: nowrap;
+        }
+       .items{
+        font-weight: 500;
+    font-size: 24px;
+       }
+       .text
+       {
+     margin:0px;
+        width:10px;
+       }
+        
+      .t1{
+          
+
+      }
+            
+        .t1:hover{
+             color: blue;
+
+          }
+          .symbols:hover{
+            color:blue;
+          }
+         
+        
+        .images{
+            display:flex;
+                    flex-direction:row;
+
+                       margin-right: 100px;
+                      justify-content: space-between;
+
+        }
+        .first{
+            border: 0px;
+            margin-top: 0;
+             width: 75px;
+
+           
+        }
+        div{ 
+
+        justify-content: space-between;
+        margin-right:30px;
+       
+        }
+        
+        .button1{
+            position:absolute;
+            top: 300px;
+        }
+        .button2{
+        position: absolute;
+        top: 30px;
+        left:1490px;
+
+       
+        
+     }
+        
+       
+           
+        
+        div{
+
+        justify-content: space-between;
+        margin-right:50px;
+       width:fit-content;
+        }
+        
